@@ -1,0 +1,32 @@
+[debug] [naha] 
+[debug] [naha] Initial source changes: 
+[debug] [naha] 	removed:Set()
+[debug] [naha] 	added: Set()
+[debug] [naha] 	modified: Set(D:\java\IDEAProject\!Scala\de22\src\main\scala\Main.scala)
+[debug] [naha] Invalidated products: Set()
+[debug] [naha] External API changes: API Changes: Set()
+[debug] [naha] Modified binary dependencies: Set()
+[debug] [naha] Initial directly invalidated sources: Set(D:\java\IDEAProject\!Scala\de22\src\main\scala\Main.scala)
+[debug] [naha] 
+[debug] [naha] Sources indirectly invalidated by:
+[debug] [naha] 	product: Set()
+[debug] [naha] 	binary dep: Set()
+[debug] [naha] 	external source: Set()
+[debug] All initially invalidated sources: Set(D:\java\IDEAProject\!Scala\de22\src\main\scala\Main.scala)
+[debug] [naha] Initial set of included nodes: Set(D:\java\IDEAProject\!Scala\de22\src\main\scala\Main.scala)
+[info] Compiling 1 Scala source to D:\java\IDEAProject\!Scala\de22\target\scala-2.13\classes...
+[debug] Getting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10
+[debug] Getting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10
+[debug] Running cached compiler 297759cd, interfacing (CompilerInterface) with Scala compiler version 2.13.10
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-bootclasspath
+[debug] 	D:\Java\jdk1.8.0_131\jre\lib\resources.jar;D:\Java\jdk1.8.0_131\jre\lib\rt.jar;D:\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;D:\Java\jdk1.8.0_131\jre\lib\jsse.jar;D:\Java\jdk1.8.0_131\jre\lib\jce.jar;D:\Java\jdk1.8.0_131\jre\lib\charsets.jar;D:\Java\jdk1.8.0_131\jre\lib\jfr.jar;D:\Java\jdk1.8.0_131\jre\classes;C:\Users\bannyi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.10.jar
+[debug] 	-classpath
+[debug] 	D:\java\IDEAProject\!Scala\de22\target\scala-2.13\classes
+[debug] Scala compilation took 0.4646561 s
+[debug] [naha] New invalidations:
+[debug] [naha] 	Set()
+[debug] [naha] Initial set of included nodes: Set()
+[debug] [naha] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] [naha] 	Set()
+[debug] [naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()

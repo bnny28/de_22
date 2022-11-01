@@ -1,0 +1,10 @@
+[info] Running Main 
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug] Waiting for thread run-main-5c to terminate.
+[debug]   Classpath:
+[debug] 	D:\java\IDEAProject\!Scala\de22\target\scala-2.13\classes
+[debug] 	C:\Users\bannyi\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.10.jar
+[debug] 	Thread run-main-5c exited.
+[debug] Interrupting remaining threads (should be all daemons).
+[debug] Sandboxed run complete..
+[debug] Exited with code 0
